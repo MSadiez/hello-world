@@ -1,3 +1,3 @@
 # hello-world
-Says Hello to the world.
+Says Hi to the world.
 Is Very Awesome.
